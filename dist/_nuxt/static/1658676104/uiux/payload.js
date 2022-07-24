@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/uiux", {data:[{}],fetch:{},mutations:void 0});
