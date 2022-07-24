@@ -1,7 +1,7 @@
 <template>
  <div class="container-fluid"> 
   <b-tabs content-class="mt-3">
-    <b-tab title="Git" active>
+    <b-tab title="Git">
       <img src="@/static/git.png" alt="GIT" class="my-2" width="50%">
       </b-tab>
     <b-tab title="UI/UX">
