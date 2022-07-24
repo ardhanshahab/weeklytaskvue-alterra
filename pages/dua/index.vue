@@ -1,7 +1,8 @@
 <template>
  <div class="d-flex jusify-content-center landing"> 
-  <b-button pill variant="primary">Weekly Task 1</b-button>
-  <b-button pill variant="primary">Weekly Task 2</b-button>
+   <b-jumbotron bg-variant="dark" header="Weekly Task Alterra" lead="Tugas Weekly 2" text-variant="white" class="w100">
+    <p>klik pada sidebar untuk melihat informasi</p>
+    </b-jumbotron>
  </div>
 </template>
 
@@ -14,5 +15,8 @@ export default {
 .landing {
   align-content: center;
   align-items: center;
+}
+.w100 {
+  width: 100%;
 }
 </style>
