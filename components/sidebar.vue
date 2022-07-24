@@ -5,7 +5,25 @@
                     </div>
                 <div class="d-flex justify-content-between align-items-center border-bottom list-group-item dark text-white p-3 ">
                     <nuxt-link to="/uiux" class="text-white">UI/UX</nuxt-link>
-                    </div>        
+                    </div>
+                <div class="d-flex justify-content-between align-items-center border-bottom list-group-item dark text-white p-3 ">
+                    <nuxt-link to="/figma" class="text-white">Figma</nuxt-link>
+                    </div>
+                    <div class="d-flex justify-content-between align-items-center border-bottom list-group-item dark text-white p-3 ">
+                    <nuxt-link to="/html" class="text-white">HTML</nuxt-link>
+                    </div>
+                    <div class="d-flex justify-content-between align-items-center border-bottom list-group-item dark text-white p-3 ">
+                    <nuxt-link to="/css" class="text-white">CSS</nuxt-link>
+                    </div>
+                    <div class="d-flex justify-content-between align-items-center border-bottom list-group-item dark text-white p-3 ">
+                    <nuxt-link to="/bootstrap" class="text-white">Bootstrap</nuxt-link>
+                    </div>  
+                    <div class="d-flex justify-content-between align-items-center border-bottom list-group-item dark text-white p-3 ">
+                    <nuxt-link to="/js" class="text-white">JavaScript</nuxt-link>
+                    </div>      
+                <div class="d-flex justify-content-between align-items-center border-bottom list-group-item dark text-white p-3 ">
+                    <nuxt-link to="/cleancode" class="text-white">Clean Code</nuxt-link>
+                    </div>
                 </div>
                 
 </template>
