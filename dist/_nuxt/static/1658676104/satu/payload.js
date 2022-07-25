@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/satu", {data:[{}],fetch:{},mutations:void 0});

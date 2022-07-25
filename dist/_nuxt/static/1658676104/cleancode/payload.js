@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/cleancode", {data:[{}],fetch:{},mutations:void 0});

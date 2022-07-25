@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/git", {data:[{}],fetch:{},mutations:void 0});
